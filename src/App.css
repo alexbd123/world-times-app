@@ -1,0 +1,9 @@
+.main {
+  font-size: 50px;
+}
+
+.main--first-line {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

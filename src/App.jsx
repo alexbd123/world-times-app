@@ -1,11 +1,10 @@
 import { useState } from 'react'
 import './App.css'
-import Navbar from './components/Navbar'
-import MainContent from './components/MainContent'
-import Footer from './components/Footer'
+import Navbar from './components/Navbar.jsx'
+import MainContent from './components/MainContent.jsx'
+import Footer from './components/Footer.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>

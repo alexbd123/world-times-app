@@ -12,12 +12,12 @@ export default function MainContent() {
 
         <div className="main">
             <section className="main--first-line">
-                <span>The time in Boston is: {bostonTime}</span>
-                <span>The time in London is: {londonTime}</span>
+                <span>The time in Boston is: {bostonTime} </span>
+                <span>The time in London is: {londonTime} </span>
             </section>
             <section className="main--second-line">
-                <span>The time in New Delhi is: {delhiTime}</span>
-                <span>The time in Tokyo is: {tokyoTime}</span>
+                <span>The time in New Delhi is: {delhiTime} </span>
+                <span>The time in Tokyo is: {tokyoTime} </span>
             </section>
         </div>
     )
